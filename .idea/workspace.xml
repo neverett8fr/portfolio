@@ -65,7 +65,7 @@
       <updated>1612883509626</updated>
       <workItem from="1612883511094" duration="1534000" />
       <workItem from="1612893578185" duration="11428000" />
-      <workItem from="1615487846132" duration="4669000" />
+      <workItem from="1615487846132" duration="6322000" />
     </task>
     <task id="LOCAL-00001" summary="index added, so can setup domain, etc.">
       <created>1612883560844</created>
@@ -179,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615496250973</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="github links">
+      <created>1615497051556</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1615497051556</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,12 +215,13 @@
     <MESSAGE value="powered by" />
     <MESSAGE value="added iframe to octoprofile" />
     <MESSAGE value="image added to github section" />
-    <option name="LAST_COMMIT_MESSAGE" value="image added to github section" />
+    <MESSAGE value="github links" />
+    <option name="LAST_COMMIT_MESSAGE" value="github links" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1615496252500">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1615497053007">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040/-900.-130.900.1400@0.0.1920.1040" timestamp="1615496252500" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040/-900.-130.900.1400@0.0.1920.1040" timestamp="1615497053007" />
   </component>
 </project>
