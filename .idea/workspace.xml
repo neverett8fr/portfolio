@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa31bc41-fd30-4c32-914f-4774b7f64f67" name="Default Changelist" comment="minor updates">
-      <change afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +64,7 @@
       <updated>1612883509626</updated>
       <workItem from="1612883511094" duration="1534000" />
       <workItem from="1612893578185" duration="11428000" />
-      <workItem from="1615487846132" duration="12095000" />
+      <workItem from="1615487846132" duration="12263000" />
     </task>
     <task id="LOCAL-00001" summary="index added, so can setup domain, etc.">
       <created>1612883560844</created>
@@ -264,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615512053303</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="404 changed">
+      <created>1615512584667</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1615512584667</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,13 +303,14 @@
     <MESSAGE value="programming languages added" />
     <MESSAGE value="icon added" />
     <MESSAGE value="small edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="small edit" />
+    <MESSAGE value="404 changed" />
+    <option name="LAST_COMMIT_MESSAGE" value="404 changed" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1615512060599">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1615512589405">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615512060599" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615512589405" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040/-900.-130.900.1400@0.0.1920.1040" timestamp="1615503588665" />
   </component>
 </project>
