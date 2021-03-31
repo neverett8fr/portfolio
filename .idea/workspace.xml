@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa31bc41-fd30-4c32-914f-4774b7f64f67" name="Default Changelist" comment="minor updates">
-      <change afterPath="$PROJECT_DIR$/images/mapCreatorScreenshot.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,14 +68,7 @@
       <workItem from="1615487846132" duration="20938000" />
       <workItem from="1615927240011" duration="5145000" />
       <workItem from="1615952282449" duration="612000" />
-      <workItem from="1616132734970" duration="163000" />
-    </task>
-    <task id="LOCAL-00002" summary="index added, so can setup domain, etc.">
-      <created>1612883576980</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1612883576980</updated>
+      <workItem from="1616132734970" duration="496000" />
     </task>
     <task id="LOCAL-00003" summary="template added to get look of idea etc.">
       <created>1612885969214</created>
@@ -415,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615930836152</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="added image - screenshot mapCreator">
+      <created>1616132916313</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1616132916313</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -454,7 +452,8 @@
     <MESSAGE value="dev to eng" />
     <MESSAGE value="some stuff" />
     <MESSAGE value="navbar stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="navbar stuff" />
+    <MESSAGE value="added image - screenshot mapCreator" />
+    <option name="LAST_COMMIT_MESSAGE" value="added image - screenshot mapCreator" />
   </component>
   <component name="WindowStateProjectService">
     <state x="718" y="390" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1615580348216">
@@ -465,13 +464,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/-900.-130.900.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1615952895306" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1615930848091">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616132959582">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/-900.-130.900.1400/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615580332764" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040/-900.-130.900.1400@0.0.1920.1040" timestamp="1615645264273" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615514515148" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/-900.-130.900.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1615930848091" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/-900.-130.900.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1616132959582" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040/-900.-130.900.1400@0.0.1920.1040" timestamp="1615503588665" />
   </component>
 </project>
