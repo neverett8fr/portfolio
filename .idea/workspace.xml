@@ -20,7 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa31bc41-fd30-4c32-914f-4774b7f64f67" name="Default Changelist" comment="minor updates">
+      <change afterPath="$PROJECT_DIR$/images/postcodeTesterScreenshot.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +48,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -69,13 +71,8 @@
       <workItem from="1615927240011" duration="5145000" />
       <workItem from="1615952282449" duration="612000" />
       <workItem from="1616132734970" duration="496000" />
-    </task>
-    <task id="LOCAL-00003" summary="template added to get look of idea etc.">
-      <created>1612885969214</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1612885969214</updated>
+      <workItem from="1617200333828" duration="73000" />
+      <workItem from="1619915603489" duration="1264000" />
     </task>
     <task id="LOCAL-00004" summary="404 added">
       <created>1612886113674</created>
@@ -413,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616132916313</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="minor updates">
+      <created>1617200370340</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1617200370340</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,14 +452,18 @@
     <MESSAGE value="small edit" />
     <MESSAGE value="404 changed" />
     <MESSAGE value="minor changes" />
-    <MESSAGE value="minor updates" />
     <MESSAGE value="dev to eng" />
     <MESSAGE value="some stuff" />
     <MESSAGE value="navbar stuff" />
     <MESSAGE value="added image - screenshot mapCreator" />
-    <option name="LAST_COMMIT_MESSAGE" value="added image - screenshot mapCreator" />
+    <MESSAGE value="minor updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor updates" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617200348627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1617200348627" />
     <state x="718" y="390" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1615580348216">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -464,10 +472,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/-900.-130.900.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1615952895306" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616132959582">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1617200375531">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/-900.-130.900.1400/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615580332764" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1617200375531" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040/-900.-130.900.1400@0.0.1920.1040" timestamp="1615645264273" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615514515148" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/-900.-130.900.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1616132959582" />
