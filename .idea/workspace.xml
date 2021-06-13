@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa31bc41-fd30-4c32-914f-4774b7f64f67" name="Default Changelist" comment="links to github" />
+    <list default="true" id="fa31bc41-fd30-4c32-914f-4774b7f64f67" name="Default Changelist" comment="links to github">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,21 +73,7 @@
       <workItem from="1619915603489" duration="2102000" />
       <workItem from="1620758686917" duration="31000" />
       <workItem from="1623544989414" duration="391000" />
-      <workItem from="1623548916165" duration="972000" />
-    </task>
-    <task id="LOCAL-00009" summary="minor updates">
-      <created>1612915025018</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1612915025018</updated>
-    </task>
-    <task id="LOCAL-00010" summary="minor updates">
-      <created>1612965943695</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1612965943695</updated>
+      <workItem from="1623548916165" duration="1372000" />
     </task>
     <task id="LOCAL-00011" summary="added my github">
       <created>1615488310135</created>
@@ -416,7 +404,21 @@
       <option name="project" value="LOCAL" />
       <updated>1623549689470</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="added in new projects">
+      <created>1623549987674</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1623549987674</updated>
+    </task>
+    <task id="LOCAL-00059" summary="Images added">
+      <created>1623550265555</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1623550265555</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,8 +437,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="template added to get look of idea etc." />
-    <MESSAGE value="404 added" />
     <MESSAGE value="default image added and link" />
     <MESSAGE value="images added -- not just default" />
     <MESSAGE value="added my github" />
@@ -460,7 +460,9 @@
     <MESSAGE value="Added CV to site" />
     <MESSAGE value="Changed images, etc." />
     <MESSAGE value="minor text changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor text changes" />
+    <MESSAGE value="added in new projects" />
+    <MESSAGE value="Images added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Images added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617200348627">
