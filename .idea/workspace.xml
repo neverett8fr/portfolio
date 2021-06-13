@@ -19,10 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa31bc41-fd30-4c32-914f-4774b7f64f67" name="Default Changelist" comment="minor updates">
-      <change afterPath="$PROJECT_DIR$/images/postcodeTesterScreenshot.png" afterDir="false" />
+    <list default="true" id="fa31bc41-fd30-4c32-914f-4774b7f64f67" name="Default Changelist" comment="links to github">
+      <change afterPath="$PROJECT_DIR$/images/Nathan Everett - CV.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/cv.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,21 +72,9 @@
       <workItem from="1615952282449" duration="612000" />
       <workItem from="1616132734970" duration="496000" />
       <workItem from="1617200333828" duration="73000" />
-      <workItem from="1619915603489" duration="1264000" />
-    </task>
-    <task id="LOCAL-00004" summary="404 added">
-      <created>1612886113674</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1612886113674</updated>
-    </task>
-    <task id="LOCAL-00005" summary="default image added and link">
-      <created>1612893845431</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1612893845431</updated>
+      <workItem from="1619915603489" duration="2102000" />
+      <workItem from="1620758686917" duration="31000" />
+      <workItem from="1623544989414" duration="300000" />
     </task>
     <task id="LOCAL-00006" summary="images added -- not just default">
       <created>1612900607220</created>
@@ -417,7 +405,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617200370340</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="added postcode test">
+      <created>1619919304239</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1619919304239</updated>
+    </task>
+    <task id="LOCAL-00054" summary="links to github">
+      <created>1619919517745</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1619919517745</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -457,7 +459,9 @@
     <MESSAGE value="navbar stuff" />
     <MESSAGE value="added image - screenshot mapCreator" />
     <MESSAGE value="minor updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor updates" />
+    <MESSAGE value="added postcode test" />
+    <MESSAGE value="links to github" />
+    <option name="LAST_COMMIT_MESSAGE" value="links to github" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617200348627">
@@ -468,11 +472,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="718" y="390" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-900.-130.900.1400/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615580348216" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1615952895306">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1620758707407">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/-900.-130.900.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1615952895306" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1617200375531">
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/-900.-130.900.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1620758707407" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1619919521631">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/-900.-130.900.1400/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615580332764" />
@@ -480,6 +484,6 @@
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040/-900.-130.900.1400@0.0.1920.1040" timestamp="1615645264273" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615514515148" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/-900.-130.900.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1616132959582" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040/-900.-130.900.1400@0.0.1920.1040" timestamp="1615503588665" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040/-900.-130.900.1400@0.0.1920.1040" timestamp="1619919521631" />
   </component>
 </project>
