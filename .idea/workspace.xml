@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa31bc41-fd30-4c32-914f-4774b7f64f67" name="Default Changelist" comment="links to github">
-      <change afterPath="$PROJECT_DIR$/images/me_playing_bass.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cv.html" beforeDir="false" afterPath="$PROJECT_DIR$/cv.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="fa31bc41-fd30-4c32-914f-4774b7f64f67" name="Default Changelist" comment="links to github" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,21 +71,7 @@
       <workItem from="1619915603489" duration="2102000" />
       <workItem from="1620758686917" duration="31000" />
       <workItem from="1623544989414" duration="391000" />
-      <workItem from="1623548916165" duration="653000" />
-    </task>
-    <task id="LOCAL-00007" summary="minor updates">
-      <created>1612902519628</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1612902519628</updated>
-    </task>
-    <task id="LOCAL-00008" summary="minor updates">
-      <created>1612914721486</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1612914721486</updated>
+      <workItem from="1623548916165" duration="972000" />
     </task>
     <task id="LOCAL-00009" summary="minor updates">
       <created>1612915025018</created>
@@ -421,7 +402,21 @@
       <option name="project" value="LOCAL" />
       <updated>1623545370674</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Changed images, etc.">
+      <created>1623549598466</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1623549598466</updated>
+    </task>
+    <task id="LOCAL-00057" summary="minor text changes">
+      <created>1623549689470</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1623549689470</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,7 +435,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="index added, so can setup domain, etc." />
     <MESSAGE value="template added to get look of idea etc." />
     <MESSAGE value="404 added" />
     <MESSAGE value="default image added and link" />
@@ -464,7 +458,9 @@
     <MESSAGE value="added postcode test" />
     <MESSAGE value="links to github" />
     <MESSAGE value="Added CV to site" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added CV to site" />
+    <MESSAGE value="Changed images, etc." />
+    <MESSAGE value="minor text changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor text changes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617200348627">
@@ -479,14 +475,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/-900.-130.900.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1620758707407" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1623545373784">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1623549747705">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/-900.-130.900.1400/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615580332764" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1617200375531" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040/-900.-130.900.1400@0.0.1920.1040" timestamp="1615645264273" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615514515148" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/-900.-130.900.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1623545373784" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/-900.-130.900.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1623549747705" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040/-900.-130.900.1400@0.0.1920.1040" timestamp="1619919521631" />
   </component>
 </project>
