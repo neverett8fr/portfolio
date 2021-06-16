@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa31bc41-fd30-4c32-914f-4774b7f64f67" name="Default Changelist" comment="links to github">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,14 +74,8 @@
       <workItem from="1619915603489" duration="2102000" />
       <workItem from="1620758686917" duration="31000" />
       <workItem from="1623544989414" duration="391000" />
-      <workItem from="1623548916165" duration="1372000" />
-    </task>
-    <task id="LOCAL-00011" summary="added my github">
-      <created>1615488310135</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1615488310135</updated>
+      <workItem from="1623548916165" duration="1409000" />
+      <workItem from="1623848621636" duration="107000" />
     </task>
     <task id="LOCAL-00012" summary="powered by">
       <created>1615488401503</created>
@@ -418,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623550265555</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="text">
+      <created>1623550320764</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1623550320764</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -437,7 +439,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="default image added and link" />
     <MESSAGE value="images added -- not just default" />
     <MESSAGE value="added my github" />
     <MESSAGE value="powered by" />
@@ -462,7 +463,8 @@
     <MESSAGE value="minor text changes" />
     <MESSAGE value="added in new projects" />
     <MESSAGE value="Images added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Images added" />
+    <MESSAGE value="text" />
+    <option name="LAST_COMMIT_MESSAGE" value="text" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617200348627">
@@ -477,14 +479,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/-900.-130.900.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1620758707407" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1623549747705">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1623550322945">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/-900.-130.900.1400/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615580332764" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1097.577@0.0.1920.1040" timestamp="1617200375531" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040/-900.-130.900.1400@0.0.1920.1040" timestamp="1615645264273" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615514515148" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/-900.-130.900.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1623549747705" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/-900.-130.900.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1623550322945" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040/-900.-130.900.1400@0.0.1920.1040" timestamp="1619919521631" />
   </component>
 </project>
