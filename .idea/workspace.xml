@@ -19,11 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa31bc41-fd30-4c32-914f-4774b7f64f67" name="Default Changelist" comment="links to github">
-      <change afterPath="$PROJECT_DIR$/images/cleanTableMain.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="fa31bc41-fd30-4c32-914f-4774b7f64f67" name="Default Changelist" comment="links to github" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,14 +73,7 @@
       <workItem from="1623544989414" duration="391000" />
       <workItem from="1623548916165" duration="1409000" />
       <workItem from="1623848621636" duration="756000" />
-      <workItem from="1623888453524" duration="230000" />
-    </task>
-    <task id="LOCAL-00013" summary="added iframe to octoprofile">
-      <created>1615489759781</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1615489759781</updated>
+      <workItem from="1623888453524" duration="309000" />
     </task>
     <task id="LOCAL-00014" summary="image added to github section">
       <created>1615495810426</created>
@@ -422,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623848748787</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="updated links">
+      <created>1623888698358</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1623888698358</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -441,7 +437,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="added my github" />
     <MESSAGE value="powered by" />
     <MESSAGE value="added iframe to octoprofile" />
     <MESSAGE value="image added to github section" />
@@ -466,7 +461,8 @@
     <MESSAGE value="Images added" />
     <MESSAGE value="text" />
     <MESSAGE value="Links updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Links updated" />
+    <MESSAGE value="updated links" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated links" />
   </component>
   <component name="WindowStateProjectService">
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617200348627">
@@ -481,7 +477,7 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/1920.0.1920.1040/-900.-130.900.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1620758707407" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1623848755063">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1623888703945">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/-900.-130.900.1400/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1615580332764" />
@@ -489,6 +485,6 @@
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040/-900.-130.900.1400@0.0.1920.1040" timestamp="1615645264273" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1615514515148" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/-900.-130.900.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1623550322945" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040/-900.-130.900.1400@0.0.1920.1040" timestamp="1623848755063" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1920.1040/0.0.1920.1040/-900.-130.900.1400@0.0.1920.1040" timestamp="1623888703945" />
   </component>
 </project>
